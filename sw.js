@@ -1,4 +1,4 @@
-const CACHE_NAME = 'manakuru-yellow-v108-mobile-ui-step2';
+const CACHE_NAME = 'manakuru-yellow-v109-announcements';
 const APP_SHELL = [
   './',
   './index.html',
@@ -7,6 +7,9 @@ const APP_SHELL = [
   './shared-library.js',
   './mobile-ui.css',
   './mobile-ui.js',
+  './announcements.css',
+  './announcements.js',
+  './announcements.json',
   './icon-192.png',
   './icon-512.png',
   './apple-touch-icon-180.png',
